@@ -1,8 +1,8 @@
 /* Playlist */
 let playlist = [
-	{src:'https://www.bensound.com/bensound-music/bensound-epic.mp3', title:"Knock Knock", artist:"Who's there?", image:'/images/pic1.jpg'},  
-	{src:'https://www.bensound.com/bensound-music/bensound-funnysong.mp3', title:"I dont want to do this anymore", artist:"Taylor Swift", image:'/images/pic2.jpg'}, 
-  {src:'https://www.bensound.com/bensound-music/bensound-tomorrow.mp3', title:"Yay, Im done!", artist:"April Go", image:'/images/pic3.jpg'}  
+	{src:'https://www.bensound.com/bensound-music/bensound-epic.mp3', title:"Knock Knock", artist:"Who's there?", image:'images/pic1.jpg'},  
+	{src:'https://www.bensound.com/bensound-music/bensound-funnysong.mp3', title:"I dont want to do this anymore", artist:"Taylor Swift", image:'images/pic2.jpg'}, 
+  {src:'https://www.bensound.com/bensound-music/bensound-tomorrow.mp3', title:"Yay, Im done!", artist:"April Go", image:'images/pic3.jpg'}  
 ]
 
 /* Track Songs */
